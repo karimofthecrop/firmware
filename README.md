@@ -58,7 +58,7 @@ You'll probably need to install at least these packages:
 
 You'll probably need to install these (Ubuntu 16):
 
-    apt install libudev-dev python-sdl2 gcc-arm-none-eabi
+    apt install libudev-dev python-sdl2 gcc-arm-none-eabi build-essential libusb-1.0-0-dev libhidapi-dev libudev-dev 
 
 
 
